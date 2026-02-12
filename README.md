@@ -4,7 +4,7 @@
 Application permettant aux utilisateurs de proposer et réserver des trajets.
 
 ## Équipe
-- koceila tidjet 
+- koceila Tidjet 
 - Josue Yi Khonde Puati
 - Abdirahman Mohamed Farah
 

@@ -1,8 +1,11 @@
 # Projet Système de Covoiturage
 
 ## Description
-Application permettant aux utilisateurs de proposer et réserver des trajets.
+Application permettant aux utilisateurs de créer et rechercher des trajets de covoiturage, ainsi que de réserver des places.
 
+Le projet est organisé en sprints SCRUM, incluant :
+- Gestion des trajets (création + recherche)
+- Gestion des réservations
 ## Équipe
 - koceila Tidjet 
 - Josue Yi Khonde Puati
